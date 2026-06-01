@@ -5,9 +5,6 @@ A classic 2D arcade platformer built using the **Phaser 3** framework and modern
 
 The player controls a character who must navigate platforms, collect stars to score points, and dodge dynamically spawning bombs that increase in difficulty as the game progresses.
 
-## 🚀 Live Demo
-👉 **[INSERT YOUR DEPLOYED GAME LINK HERE - e.g., GitHub Pages / Netlify]**
-
 ---
 
 ## 🛠️ Key Technical Features & Architecture
